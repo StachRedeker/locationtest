@@ -3,6 +3,5 @@ folium
 streamlit-folium
 streamlit_js_eval
 pandas
-hashlib
 base64
 cryptography
