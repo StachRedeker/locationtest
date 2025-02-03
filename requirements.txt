@@ -1,4 +1,10 @@
 streamlit
 folium
 streamlit-folium
-streamlit-geolocation
+streamlit_js_eval
+pandas
+datetime
+hashlib
+os
+base64
+cryptography
